@@ -5,7 +5,7 @@ I am a **data enthusiast** who is motivated by a constant **curiosity** about pe
 
 I aspire to co-create **inclusive spaces** where individuals can show up and been **seen and heard** as their full selves.
 
-I am passionate about designing systems that support **data driven decision making** AND center the **diverse** individuals who interact with the data.
+I am passionate about designing systems that support **data informed decision making** AND center the **diverse** individuals who interact with the data.
 
 ## My Journey
 
